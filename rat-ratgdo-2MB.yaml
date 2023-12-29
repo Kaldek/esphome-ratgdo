@@ -1,6 +1,6 @@
 ---
 substitutions:
-  id_prefix: rat-ratgdov25
+  id_prefix: rat_ratgdov25
   friendly_name: "rat-ratgdov2.5"
   uart_tx_pin: GPIO1
   uart_rx_pin: GPIO3
