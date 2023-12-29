@@ -25,8 +25,8 @@ esp8266:
   board: esp_wroom_02
   restore_from_flash: true
 
-#dashboard_import:
-# package_import_url: github://Kaldek/esphome-ratgdo/rat-ratgdo-2MB.yaml@main
+dashboard_import:
+  package_import_url: github://Kaldek/esphome-ratgdo/rat-ratgdo-2MB.yaml@main
 
 packages:
   remote_package:
